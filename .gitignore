@@ -1,1 +1,9 @@
+# node modules
 node_modules
+
+# lock files
+*-lock.json
+*.lock
+
+# Environment variables
+*.env
